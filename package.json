@@ -30,6 +30,7 @@
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
     "ember-data": "^2.13.0",
+    "ember-engines": "^0.5.4",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
@@ -43,7 +44,8 @@
   "private": true,
   "ember-addon": {
     "paths": [
-      "lib/super-addon"
+      "lib/super-addon",
+      "lib/super-blog"
     ]
   }
 }
