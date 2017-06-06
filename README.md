@@ -1,5 +1,7 @@
 # in-repo-engine-component-sharing
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/buschtoens/in-repo-engine-component-sharing.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
